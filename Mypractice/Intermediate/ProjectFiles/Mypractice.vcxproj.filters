@@ -30,10 +30,22 @@
     <Filter Include="Source\Mypractice">
       <UniqueIdentifier>{A0FE728F-5675-39C2-981D-F805A24DF39A}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\Mypractice\MyAnimInstance.cpp">
+      <Filter>Source\Mypractice</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Mypractice\MyAnimInstance.h">
+      <Filter>Source\Mypractice</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\Mypractice\MyCharacter.cpp">
       <Filter>Source\Mypractice</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\Mypractice\MyCharacter.h">
+      <Filter>Source\Mypractice</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Mypractice\MyGameInstance.cpp">
+      <Filter>Source\Mypractice</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Mypractice\MyGameInstance.h">
       <Filter>Source\Mypractice</Filter>
     </ClInclude>
     <ClCompile Include="..\..\Source\Mypractice\MyGameModeBase.cpp">
@@ -61,6 +73,12 @@
       <Filter>Source\Mypractice</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\Mypractice\Mypractice.h">
+      <Filter>Source\Mypractice</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Mypractice\MyStatComponent.cpp">
+      <Filter>Source\Mypractice</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Mypractice\MyStatComponent.h">
       <Filter>Source\Mypractice</Filter>
     </ClInclude>
   </ItemGroup>
